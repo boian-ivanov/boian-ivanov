@@ -1,42 +1,18 @@
-<h1 align='center'>
-  Hi there, I'm Boian 👋
-</h1>
+## Hi there, I'm Boian 👋
 
-<p align='center'>
-  I'm a Full Stack Web Developer, living in London 💂 <br>
-  Living life one line of code at a time ⏱
-</p>
+I'm a Full Stack Web Developer, living in London 💂
+Living life one line of code at a time ⏱
 
-<p align='center'>
-  
-  <a href="https://linkedin.com/in/boian-ivanov/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/story/boian-ivanov/">
-    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />        
-  </a>&nbsp;&nbsp;
-  <a href="mailto:boian.ivanov44@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
-  <a href="https://www.instagram.com/boian.n.ivanov/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
-</p>
+[![badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boian-ivanov/)
+[![badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/story/boian-ivanov/)
+[![badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:boian.ivanov44@gmail.com)
+[![badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boian.n.ivanov/)
 
-<p align='center'>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=boian-ivanov&margin-w=5"/>
-  </a>
-</p>
+![Achievements](https://github-profile-trophy.vercel.app/?username=boian-ivanov&margin-w=16&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=boian-ivanov&show_icons=true&count_private=true&theme=dark&include_all_commits=true" width="350"></a>
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boian-ivanov&layout=compact)
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boian-ivanov&layout=compact" width="350"></a>
-</p>
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=boian-ivanov&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
 <!--
 Usefull resources:
 https://github.com/alexandresanlim/Badges4-README.md-Profile
