@@ -1,7 +1,7 @@
 ## Hi there, I'm Boian 👋
 
-I'm a Full Stack Web Developer, living in London 💂
-Living life one line of code at a time ⏱
+I'm a Full Stack Web Developer, living in London 💂<br>
+_Living life, one line of code at a time_ ⏱
 
 [![badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boian-ivanov/)
 [![badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/story/boian-ivanov/)
