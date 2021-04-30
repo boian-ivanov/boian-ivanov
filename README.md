@@ -8,7 +8,7 @@ _Living life, one line of code at a time_ ⏱
 [![badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:boian.ivanov44@gmail.com)
 [![badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boian.n.ivanov/)
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=boian-ivanov&margin-w=13&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+[![Achievements](https://github-profile-trophy.vercel.app/?username=boian-ivanov&margin-w=13&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://github.com/boian-ivanov/boian-ivanov/blob/main/src/overview.svg)](https://github.com/jstrieb/github-stats)
 [![](https://github.com/boian-ivanov/boian-ivanov/blob/main/src/languages.svg)](https://github.com/jstrieb/github-stats)
