@@ -10,8 +10,8 @@ _Living life, one line of code at a time_ ⏱
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=boian-ivanov&margin-w=13&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
-![](https://github.com/boian-ivanov/boian-ivanov/blob/origin/main/src/overview.svg)
-![](https://github.com/boian-ivanov/boian-ivanov/blob/origin/main/src/languages.svg)
+![](https://github.com/boian-ivanov/boian-ivanov/blob/main/src/overview.svg)
+![](https://github.com/boian-ivanov/boian-ivanov/blob/main/src/languages.svg)
 <!--
 Usefull resources:
 https://github.com/alexandresanlim/Badges4-README.md-Profile
