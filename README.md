@@ -20,11 +20,11 @@
 <br>
 <details>
   <summary>Click here for more stats</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boian-ivanov&show_icons=true&locale=en&layout=compact" alt="boian-ivanov" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boian-ivanov&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10" alt="boian-ivanov" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boian-ivanov&show_icons=true&locale=en" alt="boian-ivanov" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boian-ivanov&show_icons=true&count_private=true" alt="boian-ivanov" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boian-ivanov&" alt="boian-ivanov" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boian-ivanov&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="boian-ivanov" /></p>
 </details>
 <!--
 Usefull resources:
